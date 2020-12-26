@@ -2,7 +2,10 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/about">About</router-link> |
+      <router-link to="/ZhuZhuangT">柱状图</router-link> |
+      <router-link to="/TiaoZhuan" >微信表情</router-link> |
+      <router-link to="/Circle">朋友圈</router-link>
     </div>
     <router-view/>
   </div>
